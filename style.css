@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #F3F0E7;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+h1 {
+    font-family: 'FRANKLIN GOTHIC MEDIUM';
+    font-size: 50px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding: 15px;
+    display: inline;    
+}
+.header {
+    background-color: #222330;
+    padding: 50px 0 50px 0;
+    text-align: center;
+    margin-bottom: 15px;
+    border-bottom: solid burlywood 4px;
+}
+
+input{
+    height: 25px;
+    width: 250px;
+    font-size: 20px;
+    border: solid burlywood 4px;
+    border-radius: 10px;
+    font-family: 'FRANKLIN GOTHIC MEDIUM';
+}
+.w{
+    display: inline-block;
+    background-color: #222330;
+    border-radius: 10px ;
+    border: solid burlywood 4px;
+    
+}
+
+
+h4{
+    margin-bottom: 10px;
+}
+button{
+   width: 150px;
+   height: 35px;
+   font-weight: bold;
+   font-size: 20px;
+   margin: 0 10px 15px 10px;
+   border: solid burlywood 4px;
+   border-radius: 10px;
+   font-family: 'FRANKLIN GOTHIC MEDIUM';
+}
+.entrance{
+    text-align: center;   
+
+}
+footer {
+    background-color: #222330;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    text-align: center; 
+    width: 99%;   
+    font-size: 19px;
+ font-weight: bold;
+   color: burlywood;
+    border: burlywood solid 4px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    padding: 20px 0 20px 0;
+}
+.up{
+    border-radius: 7px 7px 0 0;
+    font-family: 'FRANKLIN GOTHIC MEDIUM';
+    background-color:aliceblue;
+}
+a{
+    text-decoration:none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+    color:navy;
+}

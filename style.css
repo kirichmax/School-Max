@@ -61,10 +61,7 @@ button{
 footer {
     background-color: #222330;
     position: fixed;
-    right: 0;
-    bottom: 0;
-    text-align: center; 
-    width: 99%;   
+    text-align: center;   
     font-size: 19px;
  font-weight: bold;
    color: burlywood;

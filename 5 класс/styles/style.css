@@ -33,7 +33,7 @@ h1 {
     font-size: 20px;
     padding: 0 5px 0 5px;
     color: burlywood;
-    border: burlywood solid ;
+    border: burlywood solid 4px;
     border-right: none;
     border-left: none;
 }

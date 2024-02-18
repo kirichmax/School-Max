@@ -33,7 +33,7 @@ h1 {
     font-size: 20px;
     padding: 0 5px 0 5px;
     color: burlywood;
-    border: burlywood solid 4px;
+    border: burlywood solid ;
     border-right: none;
     border-left: none;
 }
@@ -50,7 +50,7 @@ h1 {
     font-size: 20px;
     padding: 0 5px 0 5px;
     color: burlywood;
-    border: burlywood solid 5px;
+    border: burlywood solid ;
     border-left: none;
     border-top: none;
     border-bottom: none;
@@ -96,7 +96,7 @@ footer {
     width: 100%;
     font-weight: bold;
     color: burlywood;
-    border: burlywood solid 4px;
+    border: burlywood solid ;
     border-bottom: none;
     border-left: none;
     border-right: none;

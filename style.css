@@ -63,8 +63,10 @@ footer {
     position: fixed;
     text-align: center;   
     font-size: 19px;
- font-weight: bold;
-   color: burlywood;
+    with: 100%;
+    bottom: 0;
+    font-weight: bold;
+    color: burlywood;
     border: burlywood solid 4px;
     border-bottom: none;
     border-left: none;

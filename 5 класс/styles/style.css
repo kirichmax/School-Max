@@ -86,11 +86,17 @@ img {
 
 .img {
     text-align: center;
+    object-fit: contain;
 }
 
 footer {
     background-color: #222330;
-    position: sticky;
+    position: fixed;
+    text-align: center;   
+    font-size: 19px;
+    with: 100%;
+    bottom: 0;
+    font-weight: bold;
     color: burlywood;
     border: burlywood solid 4px;
     border-bottom: none;

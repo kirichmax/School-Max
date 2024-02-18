@@ -63,7 +63,7 @@ footer {
     position: fixed;
     text-align: center;   
     font-size: 19px;
-    with: 100%;
+    width: 100%;
     bottom: 0;
     font-weight: bold;
     color: burlywood;
